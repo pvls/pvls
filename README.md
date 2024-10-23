@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi everyone 👋
+
+> My name is Pedro and I'm a skilled *Software tester engineer/QA* specialist with 5 years (almost 6) of experience in software testing.
+>  Proficient in both manual and automated testing, I'm excel at identifying defects and ensuring product quality. I have expertise in automation tools and a strong understanding of testing methodologies. An the most important, I'm dedicated to improving processes and delivering reliable, high-quality software solutions.
 
 <!--
 **pvls/pvls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
